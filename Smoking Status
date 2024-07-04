@@ -1,0 +1,79 @@
+medcode	readterm	type
+103507	Stop smoking service opportunity signposted	current smoker
+34126	Negotiated date for cessation of smoking	current smoker
+110692	Varenicline smoking cessation therapy offered	current smoker
+35055	[V]Tobacco abuse counselling	current smoker
+105999	Smokes drugs in cigarette form	current smoker
+12954	[V]Tobacco use	current smoker
+1823	Smoker	current smoker
+12964	Keeps trying to stop smoking	current smoker
+46300	Cigarette pack-years	current smoker
+12951	Smoking restarted	current smoker
+54	Tobacco consumption	current smoker
+12945	Rolls own cigarettes	current smoker
+7622	Smoking cessation advice	current smoker
+12240	Trying to give up smoking	current smoker
+12960	Tobacco consumption NOS	current smoker
+102361	Referral for smoking cessation service offered	current smoker
+108835	Tobacco dependence, episodic	current smoker
+46321	Reason for restarting smoking	current smoker
+1822	Very heavy smoker - 40+cigs/d	current smoker
+62686	Minutes from waking to first tobacco consumption	current smoker
+68658	Tobacco dependence NOS	current smoker
+12941	Occasional smoker	current smoker
+98154	Referral to NHS stop smoking service	current smoker
+106391	Referral to smoking cessation service declined	current smoker
+12967	Pipe tobacco consumption	current smoker
+10742	Referral to stop-smoking clinic	current smoker
+32973	Chews tobacco	current smoker
+95610	Tobacco dependence, unspecified	current smoker
+12966	Smoking reduced	current smoker
+101338	Failed attempt to stop smoking	current smoker
+3568	Heavy smoker - 20-39 cigs/day	current smoker
+104310	Current smoker annual review	current smoker
+12947	Pipe smoker	current smoker
+105501	Waterpipe tobacco consumption	current smoker
+12963	Cigar consumption	current smoker
+98347	Current smoker annual review - enhanced services admin	current smoker
+12944	Light smoker - 1-9 cigs/day	current smoker
+12962	Tobacco consumption unknown	current smoker
+30423	Thinking about stopping smoking	current smoker
+12952	Smoking started	current smoker
+1878	Moderate smoker - 10-19 cigs/d	current smoker
+12965	Cigarette consumption	current smoker
+12942	Smoker - amount smoked	current smoker
+12943	Cigar smoker	current smoker
+10558	Current smoker	current smoker
+32687	Tobacco dependence	current smoker
+30762	Not interested in stopping smoking	current smoker
+106359	Referral to smoking cessation service	current smoker
+46654	Admitted tobacco cons untrue ?	current smoker
+31114	Ready to stop smoking	current smoker
+100099	Smoking cessation advice declined	current smoker
+12958	Trivial smoker - < 1 cig/day	current smoker
+93	Cigarette smoker	current smoker
+18573	Referral to smoking cessation advisor	current smoker
+41979	Smoking restarted	current smoker
+70746	Tobacco dependence, continuous	current smoker
+776	Stopped smoking	ex smoker
+99838	Recently stopped smoking	ex smoker
+12955	Ex-moderate smoker (10-19/day)	ex smoker
+12878	Date ceased smoking	ex smoker
+97210	Ex-cigarette smoker	ex smoker
+100963	Ex-smoker annual review	ex smoker
+12957	Ex-light smoker (1-9/day)	ex smoker
+100495	Ex roll-up cigarette smoker	ex smoker
+12959	Ex-very heavy smoker (40+/day)	ex smoker
+19488	Ex cigar smoker	ex smoker
+90	Ex smoker	ex smoker
+26470	Ex pipe smoker	ex smoker
+12961	Ex-trivial smoker (<1/day)	ex smoker
+12946	Ex-smoker - amount unknown	ex smoker
+98447	Ex-smoker annual review - enhanced services administration	ex smoker
+12956	Ex-heavy smoker (20-39/day)	ex smoker
+106891	Ex-tobacco chewer	ex smoker
+11788	Non-smoker	never smoker
+98177	Non-smoker annual review - enhanced services administration	never smoker
+60	Current non-smoker	never smoker
+101878	Non-smoker annual review	never smoker
+33	Never smoked tobacco	never smoker
