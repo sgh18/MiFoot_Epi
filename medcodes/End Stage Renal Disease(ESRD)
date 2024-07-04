@@ -1,0 +1,108 @@
+medcode	readterm
+49028	H/O: kidney recipient
+20196	H/O: renal dialysis
+44422	H/O: kidney dialysis
+12585	Chronic kidney disease stage 5
+95508	Chronic kidney disease stage 5 with proteinuria
+95405	Chronic kidney disease stage 5 without proteinuria
+97683	CKD stage 5 without proteinuria
+98888	Peritoneal dialysis sample
+101736	Dialysis fluid urea level
+86419	Dialysis fluid glucose level
+11745	Transplantation of kidney from live donor
+66705	Allotransplantation of kidney from live donor
+24361	Transplantation of kidney from cadaver
+98364	Allotransplantation of kidney from cadaver
+105328	Cadaveric renal transplant
+89924	Allotransplantation of kidney from cadaver, heart-beating
+96133	Allotransplantation kidney from cadaver, heart non-beating
+109455	Allotransplantation of kidney from cadaver NEC
+2997	Transplantation of kidney
+70874	Other specified transplantation of kidney
+5504	Transplantation of kidney NOS
+72004	Excision of rejected transplanted kidney
+26862	Exploration of renal transplant
+103429	Post-transplantation of kidney examination, recipient
+93366	Interventions associated with transplantation of kidney
+104050	OS interventions associated with transplantation of kidney
+104049	Interventions associated with transplantation of kidney NOS
+20073	Renal dialysis
+101756	Thomas intravascular shunt for dialysis
+2994	Peritoneal dialysis
+2996	Haemodialysis NEC
+88597	Automated peritoneal dialysis
+30756	Continuous ambulatory peritoneal dialysis
+64828	Peritoneal dialysis NEC
+11773	Dialysis for renal failure
+8037	Insertion of ambulatory peritoneal dialysis catheter
+23773	Removal of ambulatory peritoneal dialysis catheter
+104586	Flushing of peritoneal dialysis catheter
+36442	Placement ambulatory dialysis apparatus - compens renal fail
+30709	Insertion of temporary peritoneal dialysis catheter
+52123	Intestinal dialysis
+105760	Ruptured aneurysm of dialysis vascular access
+110095	Aneurysm of superficialised artery of dialysis AV fistula
+107220	Aneurysm of needle site of dialysis arteriovenous fistula
+105742	Aneurysm of anastomotic site of dialysis AV fistula
+107188	Aneurysm of dialysis arteriovenous fistula
+108699	Stenosis of dialysis arteriovenous graft
+107746	Stenosis of dialysis vascular access
+106720	Thrombosis of dialysis arteriovenous fistula
+109809	Thrombosis of dialysis vascular access
+109135	Occlusion of dialysis arteriovenous graft
+107082	Occlusion of dialysis arteriovenous fistula
+108116	Occlusion of dialysis vascular access
+108213	Infection of dialysis arteriovenous graft
+107260	Infection of dialysis arteriovenous fistula
+110051	Infection of dialysis vascular access
+106975	Haemorrhage of dialysis arteriovenous fistula
+108759	Haemorrhage of dialysis vascular access
+108423	Rupture of dialysis arteriovenous graft
+6712	End stage renal failure
+53852	End stage renal failure
+48057	Renal tubulo-interstitial disordrs in transplant rejectn
+8330	End-stage renal disease
+100693	[X]Renal tubulo-interstitial disorders/transplant rejection
+48639	Mechanical complication of dialysis catheter
+46438	[X] Peritoneal dialysis associated peritonitis
+101124	Continuous ambulatory peritoneal dialysis associated perit
+59315	Stenosis of arteriovenous dialysis fistula
+11553	Kidney transplant failure and rejection
+104905	Acute-on-chronic rejection of renal transplant
+104960	Acute rejection of renal transplant - grade I
+107000	Acute rejection of renal transplant - grade II
+104630	Acute rejection of renal transplant - grade III
+104201	Acute rejection of renal transplant
+106620	Chronic rejection of renal transplant
+105724	Unexplained episode of renal transplant dysfunction
+106301	Stenosis of vein of transplanted kidney
+105811	Renal transplant rejection
+107752	Urological complication of renal transplant
+108437	Very mild acute rejection of renal transplant
+106866	Vascular complication of renal transplant
+107900	Disorders associated with peritoneal dialysis
+108785	Haemodialysis first use syndrome
+105436	Anaphylactoid reaction due to haemodialysis
+96184	Accid cut,puncture,perf,h'ge - kidney dialysis
+69266	Failure of sterile precautions during kidney dialysis
+54990	Kidney transplant with complication, without blame
+18774	Renal transplant with complication, without blame
+28158	Kidney dialysis with complication, without blame
+66714	Renal dialysis with complication, without blame
+104719	Peritoneal dialysis training
+74905	Haemodialysis training
+101912	Dialysis training
+72336	Priming haemodialysis lines
+110072	Washing back through haemodialysis lines
+60498	Reversing haemodialysis lines
+60446	Care of haemodialysis equipment
+63502	Peritoneal dialysis bag procedure
+5911	[V]Kidney transplanted
+22252	[V]Renal dialysis status
+99692	[V]Aftercare involving extracorporeal dialysis
+46145	[V]Aftercare involving renal dialysis NOS
+63488	[V]Other specified aftercare involving intermittent dialysis
+45160	[V]Aftercare involving peritoneal dialysis
+60743	[V]Aftercare involving intermittent dialysis
+63038	[V]Unspecified aftercare involving intermittent dialysis
+69760	[X]Other dialysis
