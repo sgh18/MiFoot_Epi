@@ -1,0 +1,175 @@
+medcode	readterm
+78	Asthma
+81	Asthma monitoring
+185	Acute exacerbation of asthma
+232	Asthma attack
+233	Severe asthma attack
+719	H/O: asthma
+1208	Childhood asthma
+1555	Bronchial asthma
+2290	Allergic asthma
+3018	Mild asthma
+3366	Severe asthma
+3458	Occasional asthma
+3665	Late onset asthma
+4442	Asthma unspecified
+4606	Exercise induced asthma
+4892	Status asthmaticus NOS
+5138	Patient in asthma study
+5267	Intrinsic asthma
+5515	Seen in asthma clinic
+5627	Hay fever with asthma
+5798	Chronic asthmatic bronchitis
+5867	Exercise induced asthma
+6707	Extrinsic asthma with asthma attack
+7058	Emergency admission, asthma
+7146	Extrinsic (atopic) asthma
+7191	Asthma limiting activities
+7229	Asthma prophylactic medication used
+7378	Asthma management plan given
+7416	Asthma disturbing sleep
+7731	Pollen asthma
+8335	Asthma attack NOS
+8355	Asthma monitored
+9018	Number of asthma exacerbations in past year
+9552	Change in asthma management plan
+9663	Step up change in asthma management plan
+10043	Asthma annual review
+10274	Asthma medication review
+10318	Suspected asthma
+10487	Asthma - currently active
+11022	Asthma trigger
+11370	Asthma confirmed
+11387	Refuses asthma monitoring
+11673	Excepted from asthma quality indicators: Patient unsuitable
+11695	Excepted from asthma quality indicators: Informed dissent
+12987	Late-onset asthma
+13064	Asthma severity
+13065	Moderate asthma
+13066	Asthma - currently dormant
+13173	Asthma not disturbing sleep
+13174	Asthma not limiting activities
+13175	Asthma disturbs sleep frequently
+13176	Asthma follow-up
+14777	Extrinsic asthma without status asthmaticus
+15248	Hay fever with asthma
+16070	Asthma NOS
+16655	Asthma monitoring admin.
+16667	Asthma control step 2
+16785	Asthma control step 1
+18141	Asthma monitoring due
+18223	Step down change in asthma management plan
+18224	Asthma control step 3
+18323	Intrinsic asthma with asthma attack
+18692	Exception reporting: asthma quality indicators
+18763	Referral to asthma clinic
+19167	Asthma monitoring by nurse
+19519	Asthma treatment compliance unsatisfactory
+19520	Asthma treatment compliance satisfactory
+19539	Asthma monitoring check done
+20422	Asthma clinic administration
+20860	Asthma control step 5
+20886	Asthma control step 4
+21232	Allergic asthma NEC
+22752	Occupational asthma
+24479	Emergency asthma admission since last appointment
+24506	Further asthma - drug prevent.
+24884	Asthma causes daytime symptoms 1 to 2 times per week
+25181	Asthma restricts exercise
+25705	Asthma monitor 3rd letter
+25706	Asthma monitor 2nd letter
+25707	Asthma monitor 1st letter
+25791	Asthma clinical management plan
+25796	Mixed asthma
+26496	Health education - asthma
+26501	Asthma never causes daytime symptoms
+26503	Asthma causes daytime symptoms most days
+26504	Asthma never restricts exercise
+26506	Asthma severely restricts exercise
+26861	Asthma sometimes restricts exercise
+27926	Extrinsic asthma with status asthmaticus
+29325	Intrinsic asthma without status asthmaticus
+29645	Asthma control step 0
+30308	DNA - Did not attend asthma clinic
+30382	Asthma monitoring admin.NOS
+30458	Asthma monitoring by doctor
+30815	Asthma causing night waking
+31135	Asthma monitor phone invite
+31167	Asthma night-time symptoms
+31225	Asthma causes daytime symptoms 1 to 2 times per month
+35927	Asthma leaflet given
+37943	Asthma monitor verbal invite
+38143	Asthma never disturbs sleep
+38144	Asthma limits walking up hills or stairs
+38145	Asthma limits walking on the flat
+38146	Asthma disturbs sleep weekly
+39478	Wood asthma
+39570	Asthma causes night symptoms 1 to 2 times per month
+40823	Brittle asthma
+40864	[X] Adverse reaction to theophylline - asthma
+41020	Absent from work or school due to asthma
+41554	Asthma monitor offer default
+42824	Asthma daytime symptoms
+43770	Asthma society member
+45073	Intrinsic asthma NOS
+45782	Extrinsic asthma NOS
+46529	Attends asthma monitoring
+47337	Asthma accident and emergency attendance since last visit
+47684	Detergent asthma
+47993	Does not have asthma management plan
+48591	Adverse reaction to theophylline (asthma)
+51116	[X]Antiasthmats caus adverse effects in therapeut use, NEC
+54946	Asthma monitoring deleted
+55816	Adverse reaction to antiasthmatics
+58196	Intrinsic asthma with status asthmaticus
+63233	Adverse reaction to antiasthmatic NOS
+73408	Antiasthmatic poisoning NOS
+73522	Work aggravated asthma
+92109	Asthma outreach clinic
+93353	Sequoiosis (red-cedar asthma)
+93736	Royal College of Physicians asthma assessment
+98185	Asthma control test
+99793	Patient has a written asthma personal action plan
+100107	Health education - asthma self management
+100397	Asthma control questionnaire
+100509	Under care of asthma specialist nurse
+100740	Health education - structured asthma discussion
+101133	[X] Adverse reaction to antiasthmatic NOS
+102170	Asthma review using Roy Colleg of Physicians three questions
+102209	Mini asthma quality of life questionnaire
+102301	Asthma trigger - seasonal
+102341	Asthma trigger - pollen
+102395	Asthma causes symptoms most nights
+102400	Asthma causes night time symptoms 1 to 2 times per week
+102449	Asthma trigger - respiratory infection
+102713	Asthma limits activities 1 to 2 times per month
+102871	Asthma trigger - exercise
+102888	Asthma limits activities 1 to 2 times per week
+102952	Asthma trigger - warm air
+103318	Health education - structured patient focused asthma discuss
+103321	Asthma trigger - animals
+103612	Asthma never causes night symptoms
+103631	Royal College Physician asthma assessment 3 question score
+103813	Asthma trigger - cold air
+103944	Asthma trigger - airborne dust
+103945	Asthma trigger - damp
+103952	Asthma trigger - emotion
+103955	Asthma trigger - tobacco smoke
+103998	Asthma limits activities most days
+104235	[X] Adverse reaction to antiasthmatics
+105420	Asthma self-management plan review
+105674	Asthma self-management plan agreed
+106805	Chronic asthma with fixed airflow obstruction
+107167	Number days absent from school due to asthma in past 6 month
+108475	Asthma management plan declined
+108599	Childhood Asthma Control Test
+108912	Asthma monitorng invit SMS (short message servce) txt messge
+109207	Review of patient at risk of asthma
+109468	Asthma monitoring invitation email
+109958	Asthma-chronic obstructive pulmonary disease overlap syndrom
+109996	Telehealth asthma monitoring
+110339	Asthma monitoring SMS text message 1st invitation
+110345	Severe asthma exacerbation risk assessment
+110406	At risk of severe asthma exacerbation
+110533	Asthma monitoring SMS text message 2nd invitation
+111669	Asthma monitoring SMS text message 3rd invitation
