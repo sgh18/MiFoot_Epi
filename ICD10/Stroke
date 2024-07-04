@@ -1,0 +1,10 @@
+icd	icdterm
+I60	Subarachnoid haemorrhage  
+I61	Intracerebral haemorrhage  
+I62	Other nontraumatic intracranial haemorrhage  
+I63	Cerebral infarction  
+I64	Stroke, not specified as haemorrhage or infarction  
+I67	Other cerebrovascular diseases
+I68	Cerebrovascular disorders in diseases classified elsewhere
+I69	Sequelae of cerebrovascular disease (EXCEPT I69.8)
+G45	Transient cerebral ischaemic attacks and related syndromes
