@@ -1,0 +1,521 @@
+ICD	  icdterm
+^C00	MALIGNANT NEOPLASM OF LIP
+C00.0	Malignant neoplasm of external upper lip
+C00.1	Malignant neoplasm of external lower lip
+C00.2	Malignant neoplasm of external lip, unspecified
+C00.3	Malignant neoplasm of upper lip, inner aspect
+C00.4	Malignant neoplasm of lower lip, inner aspect
+C00.5	Malignant neoplasm of lip, unspecified, inner aspect
+C00.6	Malignant neoplasm of commissure of lip
+C00.8	Malignant neoplasm of overlapping sites of lip
+C00.9	Malignant neoplasm of lip, unspecified 
+^C01	MALIGNANT NEOPLASM OF BASE OF TONGUE
+^C02	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED PARTS OF TONGUE
+C02.0	Malignant neoplasm of dorsal surface of tongue
+C02.1	Malignant neoplasm of border of tongue
+C02.2	Malignant neoplasm of ventral surface of tongue
+C02.3	Malignant neoplasm of anterior two-thirds of tongue, part unspecified
+C02.4	Malignant neoplasm of lingual tonsil
+C02.8	Malignant neoplasm of overlapping sites of tongue
+C02.9	Malignant neoplasm of tongue, unspecified
+^C03	MALIGNANT NEOPLASM OF GUM
+C03.0	Malignant neoplasm of upper gum
+C03.1	Malignant neoplasm of lower gum
+C03.9	Malignant neoplasm of gum, unspecified
+^C04	MALIGNANT NEOPLASM OF FLOOR OF MOUTH
+C04.0	Malignant neoplasm of anterior floor of mouth
+C04.1	Malignant neoplasm of lateral floor of mouth
+C04.8	Malignant neoplasm of overlapping sites of floor of mouth
+C04.9	Malignant neoplasm of floor of mouth, unspecified
+^C05	MALIGNANT NEOPLASM OF PALATE
+C05.0	Malignant neoplasm of hard palate
+C05.1	Malignant neoplasm of soft palate
+C05.2	Malignant neoplasm of uvula
+C05.8	Malignant neoplasm of overlapping sites of palate
+C05.9	Malignant neoplasm of palate, unspecified
+^C06	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED PARTS OF MOUTH
+C06.0	Malignant neoplasm of cheek mucosa
+C06.1	Malignant neoplasm of vestibule of mouth
+C06.2	Malignant neoplasm of retromolar area
+C06.8	Malignant neoplasm of overlapping sites of other and unspecified parts of mouth
+C06.9	Malignant neoplasm of mouth, unspecified
+^C07	MALIGNANT NEOPLASM OF PAROTID GLAND
+^C08	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED MAJOR SALIVARY GLANDS
+C08.0	Malignant neoplasm of submandibular gland
+C08.1	Malignant neoplasm of sublingual gland
+C08.8	Overlapping lesion of major salivary glands
+C08.9	Malignant neoplasm of major salivary gland, unspecified
+^C09	MALIGNANT NEOPLASM OF TONSIL 
+C09.0	Malignant neoplasm of tonsillar fossa
+C09.1	Malignant neoplasm of tonsillar pillar (anterior) (posterior)
+C09.8	Malignant neoplasm of overlapping sites of tonsil
+C09.9	Malignant neoplasm of tonsil, unspecified
+^C10	MALIGNANT NEOPLASM OF OROPHARYNX
+C10.0	Malignant neoplasm of vallecula
+C10.1	Malignant neoplasm of anterior surface of epiglottis
+C10.2	Malignant neoplasm of lateral wall of oropharynx
+C10.3	Malignant neoplasm of posterior wall of oropharynx
+C10.4	Malignant neoplasm of branchial cleft
+C10.8	Malignant neoplasm of overlapping sites of oropharynx
+C10.9	Malignant neoplasm of oropharynx, unspecified
+^C11	MALIGNANT NEOPLASM OF NASOPHARYNX
+C11.0	Malignant neoplasm of superior wall of nasopharynx
+C11.1	Malignant neoplasm of posterior wall of nasopharynx
+C11.2	Malignant neoplasm of lateral wall of nasopharynx
+C11.3	Malignant neoplasm of anterior wall of nasopharynx
+C11.8	Malignant neoplasm of overlapping sites of nasopharynx
+C11.9	Malignant neoplasm of nasopharynx, unspecified
+^C12	MALIGNANT NEOPLASM OF PYRIFORM SINUS 
+^C13	MALIGNANT NEOPLASM OF HYPOPHARYNX
+C13.0	Malignant neoplasm of postcricoid region
+C13.1	Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect
+C13.2	Malignant neoplasm of posterior wall of hypopharynx
+C13.8	Malignant neoplasm of overlapping sites of hypopharynx
+C13.9	Malignant neoplasm of hypopharynx, unspecified
+^C14	MALIGNANT NEOPLASM OF OTHER AND ILL-DEFINED SITES IN THE LIP, ORAL CAVITY AND PHARYNX
+C14.0	Malignant neoplasm of pharynx, unspecified
+C14.2	Malignant neoplasm of Waldeyer's ring
+C14.8	Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx
+^C15	MALIGNANT NEOPLASM OF ESOPHAGUS
+C15.0	Cervical part of esophagus
+C15.1	Thoracic part of esophagus
+C15.2	Abdominal part of esophagus
+C15.3	Malignant neoplasm of upper third of esophagu
+C15.4	Malignant neoplasm of middle third of esophagus
+C15.5	Malignant neoplasm of lower third of esophagus
+C15.8	Malignant neoplasm of overlapping sites esophagus
+C15.9	Malignant neoplasm of esophagus, unspecified
+^C16	MALIGNANT NEOPLASM OF STOMACH
+C16.0	Malignant neoplasm of cardia
+C16.1	Malignant neoplasm of fundus of stomach
+C16.2	Malignant neoplasm of body of stomach
+C16.3	Malignant neoplasm of pyloric antrum
+C16.4	Malignant neoplasm of pylorus
+C16.5	Malignant neoplasm of lesser curvature of stomach, unspecified
+C16.6	Malignant neoplasm of greater  curvature of stomach, unspecified
+C16.8	Malignant neoplasm of overlapping sites of stomach
+C16.9	Malignant neoplasm of stomach, unspecified
+^C17	MALIGNANT NEOPLASM OF SMALL INTESTINE
+C17.0	Malignant neoplasm of duodenum
+C17.1	Malignant neoplasm of jejunum
+C17.2	Malignant neoplasm of ileum
+C17.3	Meckel's diverticulum
+C17.8	Malignant neoplasm of overlapping sites of small intestine
+C17.9	Malignant neoplasm of cecum
+^C18	MALIGNANT NEOPLASM OF COLON
+C18.0	Malignant neoplasm of cecum
+C18.1	Malignant neoplasm of appendix
+C18.2	Malignant neoplasm of ascending colon
+C18.3	Malignant neoplasm of hepatic flexure
+C18.4	Malignant neoplasm of transverse colon
+C18.5	Malignant neoplasm of splenic flexure
+C18.6	Malignant neoplasm of descending colon
+C18.7	Malignant neoplasm of sigmoid colon
+C18.8	Malignant neoplasm of overlapping sites of colon
+C18.9	Malignant neoplasm of colon, unspecified
+^C19	MALIGNANT NEOPLASM OF RECTOSIGMOID JUNCTION
+^C20	MALIGNANT NEOPLASM OF RECTUM
+^C21	MALIGNANT NEOPLASM OF ANUS AND ANAL CANAL
+C21.0	Malignant neoplasm of anus, unspecified
+C21.1	Malignant neoplasm of anal canal
+C21.2	Malignant neoplasm of cloacogenic zone
+C21.8	Malignant neoplasm of overlapping sites of rectum, anus and anal canal
+^C22	MALIGNANT NEOPLASM OF LIVER AND INTRAHEPATIC BILE DUCTS
+C22.0	Liver cell carcinoma
+C22.1	Intrahepatic bile duct carcinoma
+C22.2	Hepatoblastoma
+C22.3	Angiosarcoma of liver
+C22.4	Other sarcomas of liver
+C22.7	Other specified carcinomas of liver
+C22.9	Malignant neoplasm of liver, unspecified
+^C23	MALIGNANT NEOPLASM OF GALLBLADDER
+^C24	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED PARTS OF BILIARY TRACT
+C24.0	Malignant neoplasm of extrahepatic bile duct
+C24.1	Malignant neoplasm of Ampulla of Vater
+C24.8	Malignant neoplasm of overlapping lesion of biliary tract
+C24.9	Malignant neoplasm of biliary tract, unspecified
+^C25	MALIGNANT NEOPLASM OF PANCREAS
+C25.0	Malignant neoplasm of head of pancreas
+C25.1	Malignant neoplasm of body of pancreas
+C25.2	Malignant neoplasm of tail of pancreas
+C25.3	Malignant neoplasm of pancreatic duct
+C25.4	Malignant neoplasm of endocrine pancreas
+C25.7	Malignant neoplasm of other parts of pancreas
+C25.8	Malignant neoplasm of overlapping sites of pancreas
+C25.9	Malignant neoplasm of pancreas, unspecified
+^C26	MALIGNANT NEOPLASM OF OTHER AND ILL-DEFINED DIGESTIVE ORGANS
+C26.0	Malignant neoplasm of intestinal tract, part unspecified
+C26.1	Malignant neoplasm of spleen
+C26.8	Overlapping lesion of digestive system
+C26.9	Malignant neoplasm of ill-defined sites within the digestive system
+^C30	MALIGNANT NEOPLASM OF NASAL CAVITY AND MIDDLE EAR
+C30.0	Malignant neoplasm of nasal cavity
+C30.1	Malignant neoplasm of middle ear
+^C31	MALIGNANT NEOPLASM OF ACCESSORY SINUSES 
+C31.0	Malignant neoplasm of maxillary sinus
+C31.1	Malignant neoplasm of ethmoidal sinus
+C31.2	Malignant neoplasm of frontal sinus
+C31.3	Malignant neoplasm of sphenoid sinus
+C31.8	Malignant neoplasm of overlapping sites of accessory sinuses
+C31.9	Malignant neoplasm of accessory sinus, unspecified
+^C32	MALIGNANT NEOPLASM OF LARYNX
+C32.0	Malignant neoplasm of glottis
+C32.1	Malignant neoplasm of supraglottis
+C32.2	Malignant neoplasm of subglottis
+C32.3	Malignant neoplasm of laryngeal cartilage
+C32.8	Malignant neoplasm of overlapping sites of larynx
+C32.9	Malignant neoplasm of larynx, unspecified
+^C33	MALIGNANT NEOPLASM OF TRACHEA
+^C34	MALIGNANT NEOPLASM OF BRONCHUS AND LUNG 
+C34.0	Malignant neoplasm of main bronchus
+C34.1	Malignant neoplasm of upper lobe, bronchus or lung
+C34.2	Malignant neoplasm of middle lobe, bronchus or lung
+C34.3	Malignant neoplasm of lower lobe, bronchus or lung
+C34.8	Malignant neoplasm of overlapping sites of bronchus and lung
+C34.9	Malignant neoplasm of bronchus or lung, unspecified
+^C37	MALIGNANT NEOPLASM OF THYMUS
+^C38	MALIGNANT NEOPLASM OF HEART, MEDIASTINUM
+C38.0	Malignant neoplasm of heart
+C38.1	Malignant neoplasm of anterior mediastinum
+C38.2	Malignant neoplasm of posterior mediastinum
+C38.3	Malignant neoplasm of mediastinum, part unspecified
+C38.4	Malignant neoplasm of pleura
+C38.8	Malignant neoplasm of overlapping sites of heart, mediastinum and pleura
+^C39	MALIGNANT NEOPLASM OF OTHER AND ILL-DEFINED SITES IN THE RESPIRATORY SYSTEM AND INTRATHORACIC ORGANS
+C39.0	Malignant neoplasm of upper respiratory tract, part unspecified
+C39.8	Overlapping lesion of respiratory tract
+C39.9	Malignant neoplasm of lower respiratory tract, part unspecified 
+^C40	MALIGNANT NEOPLASM OF BONE AND ARTICULAR CARTILAGE OF LIMBS
+C40.0	Malignant neoplasm of scapula and long bones of upper limb
+C40.1	Malignant neoplasm of short bones of upper limb
+C40.2	Malignant neoplasm of long bones of lower limb
+C40.3	Malignant neoplasm of short bones of lower limb
+C40.8	Malignant neoplasm of overlapping sites of bone and articular cartilage of limb
+C40.9	Malignant neoplasm of bones and articular cartilage of limb, unspecified
+^C41	MALIGNANT NEOPLASM OF BONE AND ARTICULAR CARTILAGE OF OTHER AND UNSPECIFIED SITES
+C41.0	Malignant neoplasm of bones of skull and face
+C41.1	Malignant neoplasm of mandible
+C41.2	Malignant neoplasm of vertebral column
+C41.3	Malignant of ribs, sternum and clavicle
+C41.4	Malignant neoplasm of pelvic bones, sacrum and coccyx
+C41.8	Overlapping lesion of bone and articular cartilage
+C41.9	Malignant neoplasm of bone and articular cartilage, unspecified
+^C43	MALIGNANT MELANOMA OF SKIN
+C43.0	Malignant melanoma of lip
+C43.1	Malignant melanoma of eyelid, including canthus
+C43.2	Malignant melanoma of ear and external auricular canal
+C43.3	Malignant melanoma of other and unspecified parts of face
+C43.4	Malignant melanoma of scalp and neck
+C43.5	Malignant melanoma of trunk
+C43.6	Malignant melanoma of upper limb, including shoulder
+C43.7	Malignant melanoma of lower limb, including hip
+C43.8	Overlapping malignant melanoma of skin
+C43.9	Malignant melanoma of skin, unspecified
+^C44	OTHER MALIGNANT NEOPLASMS OF SKIN
+C44.0	Malignant neoplasm of skin of lip
+C44.1	Malignant neoplasm of skin of eyelid, including canthus
+C44.2	Malignant neoplasm of skin of ear and external auricular canal
+C44.3	Malignant neoplasm of skin of other and unspecified parts of face
+C44.4	Malignant neoplasm of skin of scalp and neck
+C44.5	Malignant neoplasm of skin of trunk
+C44.6	Malignant neoplasm of skin of upper limb, including shoulder
+C44.7	Malignant neoplasm of skin of lower limb, including hip
+C44.8	Malignant neoplasm of overlapping sites of skin
+C44.9	Malignant neoplasm of skin, unspecified
+^C45	MESOTHELIOMA
+C45.0	Mesothelioma of pleura
+C45.1	Mesothelioma of peritoneum
+C45.2	Mesothelioma of pericardium
+C45.7	Mesothelioma of other sites
+C45.9	Mesothelioma, unspecified
+^C46	KAPOSI'S SARCOMA
+C46.0	Kaposi's sarcoma of skin
+C46.1	Kaposi's sarcoma of soft tissue
+C46.2	Kaposi's sarcoma of palate
+C46.3	Kaposi's sarcoma of lymph nodes
+C46.7	Kaposi's sarcoma of other sites
+C46.8	Kaposi's sarcoma of multiple organs
+C46.9	Kaposi's sarcoma, unspecified
+^C47	MALIGNANT NEOPLASM OF PERIPHERAL NERVES AND AUTONOMIC NERVOUS SYSTEM
+C47.0	Malignant neoplasm of peripheral nerves of head, face and neck
+C47.1	Malignant neoplasm of peripheral nerves of upper limb, including shoulder
+C47.2	Malignant neoplasm of peripheral nerves of lower limb, including hip
+C47.3	Malignant neoplasm of peripheral nerves of thorax
+C47.4	Malignant neoplasm of peripheral nerves of abdomen
+C47.5	Malignant neoplasm of peripheral nerves of pelvis
+C47.6	Malignant neoplasm of peripheral nerves of trunk, unspecified
+C47.8	Malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system
+C47.9	Malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified
+^C48	MALIGNANT NEOPLASM OF RETROPERITONEUM AND PERITONEUM
+C48.0	Malignant neoplasm of retroperitoneum
+C48.1	Malignant neoplasm of specified parts of peritoneum
+C48.2	Malignant neoplasm of peritoneum, unspecified 
+C48.8	Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum
+^C49	MALIGNANT NEOPLASM OF OTHER CONNECTIVE AND SOFT TISSUE
+C49.0	Malignant neoplasm of connective and soft tissue of head, face and neck
+C49.1	Malignant neoplasm of connective and soft tissue of upper limb, including shoulder
+C49.2	Malignant neoplasm of connective and soft tissue of lower limb, including hip
+C49.3	Malignant neoplasm of connective and soft tissue of thorax
+C49.4	Malignant neoplasm of connective and soft tissue of abdomen
+C49.5	Malignant neoplasm of connective and soft tissue of pelvis
+C49.6	Malignant neoplasm of connective and soft tissue of trunk, unspecified
+C49.8	Malignant neoplasm of overlapping sites of connective and soft tissue
+C49.9	Malignant neoplasm of connective and soft tissue, unspecified
+^C50	MALIGNANT NEOPLASM OF BREAST
+C50.0	Malignant neoplasm of nipple and areola
+C50.1	Malignant neoplasm of central portion of breast
+C50.2	Malignant neoplasm of upper-inner quadrant of breast
+C50.3	Malignant neoplasm of lower-inner quadrant of breast
+C50.4	Malignant neoplasm of upper-outer quadrant of breast
+C50.5	Malignant neoplasm of lower-outer quadrant of breast
+C50.6	Malignant neoplasm of axillary tail of breast
+C50.8	Malignant neoplasm of overlapping sites of breast
+C50.9	Malignant neoplasm of breast of unspecified site
+^C51	MALIGNANT NEOPLASM OF VULVA
+C51.0	Malignant neoplasm of labium majus
+C51.1	Malignant neoplasm of labium minus
+C51.2	Malignant neoplasm of clitoris
+C51.8	Malignant neoplasm of overlapping sites of vulva
+C51.9	Malignant neoplasm of vulva, unspecified
+^C52	MALIGNANT NEOPLASM OF VAGINA
+^C53	MALIGNANT NEOPLASM OF CERVIX UTERI
+C53.0	Malignant neoplasm of endocervix
+C53.1	Malignant neoplasm of exocervix
+C53.8	Malignant neoplasm of overlapping sites of cervix uteri
+C53.9	Malignant neoplasm of cervix uteri, unspecified
+^C54	MALIGNANT NEOPLASM OF CORPUS UTERI
+C54.0	Malignant neoplasm of isthmus uteri
+C54.1	Malignant neoplasm of endometrium
+C54.2	Malignant neoplasm of myometrium
+C54.3	Malignant neoplasm of fundus uteri
+C54.8	Malignant neoplasm of overlapping sites of corpus uteri
+C54.9	Malignant neoplasm of corpus uteri, unspecified
+^C55	MALIGNANT NEOPLASM OF UTERUS, PART UNSPECIFIED
+^C56	MALIGNANT NEOPLASM OF OVARY
+^C57	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED FEMALE GENITAL ORGANS
+C57.0	Malignant neoplasm of fallopian tube
+C57.1	Malignant neoplasm of broad ligament
+C57.2	Malignant neoplasm of round ligament
+C57.3	Malignant neoplasm of parametrium
+C57.4	Malignant neoplasm of uterine adnexa, unspecified
+C57.7	Malignant neoplasm of other specified female genital organs
+C57.8	Malignant neoplasm of overlapping sites of female genital organs
+C57.9	Malignant neoplasm of female genital organ, unspecified
+^C58	MALIGNANT NEOPLASM OF PLACENTA
+^C60	MALIGNANT NEOPLASM OF PENIS
+C60.0	Malignant neoplasm of prepuce
+C60.1	Malignant neoplasm of glans penis
+C60.2	Malignant neoplasm of body of penis
+C60.8	Malignant neoplasm of overlapping sites of penis
+C60.9	Malignant neoplasm of penis, unspecified
+^C61	MALIGNANT NEOPLASM OF PROSTATE
+^C62	MALIGNANT NEOPLASM OF TESTIS
+C62.0	Malignant neoplasm of undescended testis
+C62.1	Malignant neoplasm of descended testis
+C62.9	Malignant neoplasm of testis, unspecified
+^C63	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED MALE GENITAL ORGANS
+C63.0	Malignant neoplasm of epididymis
+C63.1	Malignant neoplasm of spermatic cord
+C63.2	Malignant neoplasm of scrotum
+C63.7	Malignant neoplasm of other specified male genital organs
+C63.8	Malignant neoplasm of overlapping sites of male genital organs
+C63.9	Malignant neoplasm of male genital organ, unspecified
+^C64	MALIGNANT NEOPLASM OF KIDNEY, EXCEPT RENAL PELVIS
+^C65	MALIGNANT NEOPLASM OF RENAL PELVIS
+^C66	MALIGNANT NEOPLASM OF URETER
+^C67	MALIGNANT NEOPLASM OF BLADDER
+C67.0	Malignant neoplasm of trigone of bladder
+C67.1	Malignant neoplasm of dome of bladder
+C67.2	Malignant neoplasm of lateral wall of bladder
+C67.3	Malignant neoplasm of anterior wall of bladder
+C67.4	Malignant neoplasm of posterior wall of bladder
+C67.5	Malignant neoplasm of bladder neck
+C67.6	Malignant neoplasm of ureteric orifice
+C67.7	Malignant neoplasm of urachus
+C67.8	Malignant neoplasm of overlapping sites of bladder
+C67.9	Malignant neoplasm of bladder, unspecified
+^C68	MALIGNANT NEOPLASM OF OTHER AND UNSPECIFIED URINARY ORGANS
+C68.0	Malignant neoplasm of urethra
+C68.1	Malignant neoplasm of paraurethral glands
+C68.8	Malignant neoplasm of overlapping sites of urinary organs
+C68.9	Malignant neoplasm of urinary organ, unspecified
+^C69	MALIGNANT NEOPLASM OF EYE AND ADNEXA
+C69.0	Malignant neoplasm of conjunctiva
+C69.1	Malignant neoplasm of cornea
+C69.2	Malignant neoplasm of retina
+C69.3	Malignant neoplasm of choroid
+C69.4	Malignant neoplasm of ciliary body
+C69.5	Malignant neoplasm of lacrimal gland and duct
+C69.6	Malignant neoplasm of orbit
+C69.8	Malignant neoplasm of overlapping sites of eye and adnexa
+C69.9	Malignant neoplasm of eye, unspecified
+^C70	MALIGNANT NEOPLASM OF MENINGES
+C70.0	Malignant neoplasm of cerebral meninges
+C70.1	Malignant neoplasm of spinal meninges
+C70.9	Malignant neoplasm of meninges, unspecified 
+^C71	MALIGNANT NEOPLASM OF BRAIN
+C71.0	Malignant neoplasm of cerebrum, except lobes and ventricles
+C71.1	Malignant neoplasm of frontal lobe
+C71.2	Malignant neoplasm of temporal lobe
+C71.3	Malignant neoplasm of parietal lobe
+C71.4	Malignant neoplasm of occipital lobe
+C71.5	Malignant neoplasm of cerebral ventricle
+C71.6	Malignant neoplasm of cerebellum
+C71.7	Malignant neoplasm of brain stem
+C71.8	Malignant neoplasm of overlapping sites of brain
+C71.9	Malignant neoplasm of  brain, unspecified
+^C72	MALIGNANT NEOPLASM OF SPINAL CORD, CRANIAL NERVES AND OTHER PARTS OF CENTRAL NERVOUS SYSTEM
+C72.0	Malignant neoplasm of spinal cord
+C72.1	Malignant neoplasm of cauda equina
+C72.2	Malignant neoplasm of olfactory nerve
+C72.3	Malignant neoplasm of optic nerve
+C72.4	Malignant neoplasm of acoustic nerve
+C72.5	Malignant neoplasm of other and unspecified cranial nerves
+C72.8	Overlapping lesion of brain and other parts
+C72.9	Malignant neoplasm of central nervous system, unspecified
+^C73	MALIGNANT NEOPLASM OF THYROID GLAND
+^C74	MALIGNANT NEOPLASM OF ADRENAL GLAND
+C74.0	Malignant neoplasm of cortex of adrenal gland
+C74.1	Malignant neoplasm of medulla of adrenal gland
+C74.9	Malignant neoplasm of adrenal gland, unspecified
+^C75	MALIGNANT NEOPLASM OF OTHER ENDOCRINE AND RELATED STRUCTURES
+C75.0	Malignant neoplasm of parathyroid gland
+C75.1	Malignant neoplasm of pituitary gland
+C75.2	Malignant neoplasm of craniopharyngeal duct
+C75.3	Malignant neoplasm of pineal gland
+C75.4	Malignant neoplasm of carotid body
+C75.5	Malignant neoplasm of aortic body and other paraganglia
+C75.8	Malignant neoplasm with pluriglanduar involvement, unspecified
+C75.9	Malignant neoplasm of endocrine gland, unspecified
+^C76	MALIGNANT NEOPLASM OF OTHER AND ILL-DEFINED SITES 
+C76.0	Malignant neoplasm of head, face and neck
+C76.1	Malignant neoplasm of thorax
+C76.2	Malignant neoplasm of abdomen
+C76.3	Malignant neoplasm pelvis
+C76.4	Malignant neoplasm of upper limb
+C76.5	Malignant neoplasm of lower limb
+C76.7	Malignant neoplasm of other ill-defined sites
+C76.8	Malignant neoplasm of overlapping sites of other and ill-defined sites
+^C77	SECONDARY AND UNSPECIFIED MALIGNANT NEOPLASM OF LYMPH NODES
+C77.0	Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck
+C77.1	Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes 
+C77.2	Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes 
+C77.3	Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes 
+C77.4	Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph nodes 
+C77.5	Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes
+C77.8	Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions
+C77.9	Secondary and unspecified malignant neoplasm of lymph node, unspecified
+^C78	SECONDARY MALIGNANT NEOPLASM OF RESPIRATORY AND DIGESTIVE ORGANS
+C78.0	Secondary malignant neoplasm of lung
+C78.1	Secondary malignant neoplasm of mediastinum
+C78.2	Secondary malignant neoplasm of pleura
+C78.3	Secondary malignant neoplasm of other and unspecified respiratory organs
+C78.4	Secondary malignant neoplasm of small intestine
+C78.5	Secondary malignant neoplasm of large intestine and rectum
+C78.6	Secondary malignant neoplasm of retroperitoneum and peritoneum
+C78.7	Secondary malignant neoplasm of liver
+C78.8	Secondary malignant neoplasm of other and unspecified digestive organs
+^C79	SECONDARY MALIGNANT NEOPLASM OF OTHER  AND UNSPECIFIED SITES
+C79.0	Secondary malignant neoplasm of kidney and renal pelvis
+C79.1	Secondary malignant neoplasm of bladder and other and unspecified urinary organs
+C79.2	Secondary malignant neoplasm of skin
+C79.3	Secondary malignant neoplasm of brain and cerebral meninges
+C79.4	Secondary malignant neoplasm of other and unspecified parts of nervous system
+C79.5	Secondary malignant neoplasm of bone and bone marrow
+C79.6	Secondary malignant neoplasm of ovary
+C79.7	Secondary malignant neoplasm of adrenal gland
+C79.8	Secondary malignant neoplasm of other specified sites
+^C80	MALIGNANT NEOPLASM WITHOUT SPECIFICATION OF SITE
+^C81	HODGKIN'S DISEASE 
+C81.0	Hodgkin's lymphocytic predominance
+C81.1	Hodgkin's nodular sclerosis
+C81.2	Hodgkin's mixed cellularity
+C81.3	Hodgkin lymphoma
+C81.7	Other Hodgkin's disease
+C81.9	Hodgkin's disease, unspecified
+^C82	FOLLICULAR  [NODULAR] NON-HODGKIN'S LYMPHOMA
+C82.0	Follicular lymphoma
+C82.1	Non-Hodgkin's lymphoma mixed small cleaved and large cell, follicular
+C82.2	Non-Hodgkin's lymphoma large cell, follicular 
+C82.7	Other types of follicular non-Hodgkin's lymphoma
+C82.9	Follicular non-Hodgkin's lymphoma, unspecified
+^C83	DIFFUSE NON HODGKIN'S LYMPHOMA
+C83.0	Small cell B-cell lymphoma
+C83.1	Non-Hodgkin's lymphoma small cleaved cell (diffuse)
+C83.2	Non-Hodgkin's lymphoma mixed small and large cell (diffuse)
+C83.3	Diffuse large B-cell lymphoma
+C83.4	Non-Hodgkin's lymphoma immunoblastic (diffuse)
+C83.5	Lymphoblastic (diffuse) lymphoma
+C83.6	Non-Hodgkin's lymphoma undifferentiated (diffuse)
+C83.7	Burkitt's tumor
+C83.8	Other types of diffuse non-Hodgkin's lymphoma
+C83.9	Non-follicular (diffuse) lymphoma, unspecified 
+^C84	Mature T/NK-cell lymphomas
+C84.0	Mycosis fungoides
+C84.1	Sezary's disease
+C84.2	T-zone lymphoma
+C84.3	Lymphoepithelioid lymphoma
+C84.4	Peripheral T-cell lymphoma, not classified
+C84.5	Other and unspecified T-cell lymphomas
+^C85	OTHER AND UNSPECIFIED TYPES OF NON-HODGKIN LYMPHOMAS
+C85.0	Lymphosarcoma
+C85.1	B-cell lymphoma, unspecified
+C85.7	Other specified types of non-Hodgkin's lymphoma
+C85.9	Non-Hodgkin's lymphoma, unspecified type
+^C88	MALIGNANT IMMUNOPROLIFERATIVE DISEASES
+C88.0	Lymphoplasmacytic/lymphoma with IgM-production
+C88.1	Alpha heavy chain disease
+C88.2	Gamma heavy chain disease
+C88.3	Immunoproliferative small intestinal disease
+C88.7	Other malignant immunoproliferative diseases
+C88.9	Malignant immunoproliferative disease, unspecified
+^C90	MULTIPLE MYELOMA AND MALIGNANT PLASMA CELL NEOPLASMS
+C90.0	Multiple myeloma
+C90.1	Plasma cell leukemia
+C90.2	Plasmacytoma, extramedullary
+^C91	LYMPHOID LEUKEMIA 
+C91.0	Acute lymphoblastic leukemia
+C91.1	Chronic lymphocytic leukemia of B-cell type
+C91.2	Subacute lymphocytic leukemia
+C91.3	Prolymphocytic leukemia
+C91.4	Hairy-cell leukemia
+C91.5	Adult T-cell lymphoma/leukemia (HTLV-1-associated)
+C91.7	Other lymphoid leukemia
+C91.9	Lymphoid leukemia, unspecified
+^C92	MYELOID LEUKEMIA 
+C92.0	Acute myeloid leukemia
+C92.1	Chronic myeloid leukemia 
+C92.2	Subacute myeloid leukemia
+C92.3	Myeloid Sarcoma
+C92.4	Acute promyelocytic leukemia
+C92.5	Acute myelomonocytic leukemia
+C92.7	Other myeloid leukemia
+C92.9	Myeloid leukemia, unspecified
+^C93	MONOCYTIC LEUKEMIA
+C93.0	Acute monocytic leukemia
+C93.1	Chronic myelomonocytic leukemia
+C93.2	Subacute monocytic leukemia
+C93.7	Other monocytic leukemia
+C93.9	Monocytic leukemia, unspecified
+^C94	OTHER LEUKEMIAS OF SPECIFIED CELL TYPE
+C94.0	Acute erythremia and erythroleukemia
+C94.1	Chronic erythremia
+C94.2	Acute megakaryoblastic leukemia
+C94.3	Mast cell leukemia
+C94.4	Acute panmyelosis 
+C94.5	Acute myelofibrosis
+C94.7	Other specified leukemias
+^C95	LEUKEMIA OF UNSPECIFIED CELL TYPE
+C95.0	Acute leukemia of unspecified cell type
+C95.1	Chronic leukemia of unspecified cell type
+C95.2	Subacute leukemia of unspecified cell type
+C95.7	Other leukemia of unspecified cell type
+C95.9	Leukemia, unspecified
+^C96	OTHER AND UNSPECIFIED MALIGNANT NEOPLASMS OF LYMPHOID, HEMATOPOIETIC AND RELATED TISSUE
+C96.0	Letterer-Siwe disease 
+C96.1	Malignant histiocytosis
+C96.2	Malignant mast cell tumor
+C96.3	True histiocytic lymphoma
+C96.7	Other specified malignant neoplasms of lymphoma, hematopoietic and related tissue
+C96.9	Malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified
+^C97	MALIGNANT NEOPLASMS OF INDEPENDENT (PRIMARY MULTIPLE SITES)
